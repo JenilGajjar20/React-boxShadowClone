@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+
+.controls {
+  width: 40vw;
+}
+
+.controls label{
+    font-size: 30px;
+    display: flex;
+    margin-top: 40px;
+}
+
+.box {
+  text-align: center;
+  padding: 18vh 0;
+  background-color: blueviolet;
+  height: 50vh;
+  width: 30vw;
+}
+
+.box p{
+    color: #fff;
+    font-size: 25px;
+}
